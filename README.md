@@ -12,12 +12,15 @@ associated with music was leisure.
 Data were collected through survey made by Google Forms, which were sent to all classmates in course of this project and also other BU students who could be reached through group chat.
 
 ## Data Visualization (Done with JMP)
-Boxplot\n
-Bar Chart\n
+Boxplot
+
+Bar Chart
+
 Distribution Plot
 
 ## Data Analysis
-Confidence Interval\n
+Confidence Interval
+
 Hypothesis Test
 
 
