@@ -1,4 +1,4 @@
-# Music Preference among BU Students
+# Music Preference among BU Students (All Done with JMP)
 For our project, we were trying to find the correlation between music 
 preferences and five other variables, such as GPA, Major, activity, 
 region and age. To test our hypothesis of each 
@@ -11,7 +11,7 @@ associated with music was leisure.
 ## Data Collection
 Data were collected through survey made by Google Forms, which were sent to all classmates in course of this project and also other BU students who could be reached through group chat.
 
-## Data Visualization (Done with JMP)
+## Data Visualization 
 Boxplot
 
 Bar Chart
